@@ -460,9 +460,10 @@ input[type="checkbox"]:checked ~ .check-juice::after {
 	justify-content: space-between;
 	align-items: center;
 	gap: 24px;
-	width: 150px;
-	transform: translateX(-12.5%);
-	margin: 3%;
+	width: 175px;
+	transform: translateX(-50%);
+	margin-bottom: 3%;
+	margin-left: 50%;
 }
 
 

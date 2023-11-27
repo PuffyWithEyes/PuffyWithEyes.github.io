@@ -172,7 +172,7 @@ input[type="checkbox"]:checked ~ .check::after {
     overflow: hidden;
     transition: ease-in 0.5s;
     margin: 20px;
-    background-image: url("./assets/juice.svg");
+    background-image: url("../assets/juice.svg");
 }
 
 
